@@ -1,0 +1,7 @@
+.destination-summary {
+    visibility: hidden;
+}
+
+.destination-summary.active {
+    visibility: visible;
+}

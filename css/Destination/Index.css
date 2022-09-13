@@ -1,0 +1,13 @@
+#galaxy-map-container {
+    padding: 16px 0;
+}
+
+.galaxy-map {
+    margin: auto;
+    width: 75%;
+    display: none;
+}
+
+.galaxy-map.galaxy-map--selected {
+    display: block;
+}
